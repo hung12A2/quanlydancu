@@ -1,6 +1,6 @@
 const Dashboard = () => {
     return (
-        <div>Dashboard</div>
+        <div>Quản lý hộ khẩu</div>
     )
 }
 
